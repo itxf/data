@@ -4,7 +4,7 @@ public class et_admin {
     private int id;
     private String name;
     private String password;
-    private String password1;
+    private String password2;
     public et_admin() {
     }
 

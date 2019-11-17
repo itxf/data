@@ -11,23 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1ac16c5-7423-4172-ae0c-24e29b94a4a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ssm1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/xdl/bean/et_admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/xdl/contrller/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/xdl/mapper/AccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/xdl/service/XdlAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/META-INF/ssm1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/cn/xdl/bean/et_admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/cn/xdl/contrller/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/cn/xdl/mapper/AccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/classes/cn/xdl/service/XdlAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ssm/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xdl/bean/et_admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xdl/bean/et_admin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/xdl/bean/et_admin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="207">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -284,7 +269,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="vcs.Perforce" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -400,16 +385,30 @@
       <workItem from="1573988512603" duration="1773000" />
       <workItem from="1573990330425" duration="1783000" />
       <workItem from="1573992465537" duration="1086000" />
-      <workItem from="1573995508329" duration="395000" />
+      <workItem from="1573995508329" duration="1109000" />
     </task>
+    <task id="LOCAL-00001" summary="ssm项目">
+      <created>1573995922470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573995922470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ssm项目">
+      <created>1573996054213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573996054213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6953000" />
+    <option name="totallyTimeSpent" value="7667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83625734" visible="true" weight="0.16791846" />
       <window_info id="Structure" order="1" sideWeight="0.16374269" side_tool="true" visible="true" weight="0.16791846" />
@@ -448,6 +447,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssm项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssm项目" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xdl/applicationContext.xml" />
@@ -543,8 +546,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/xdl/bean/et_admin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
